@@ -1,0 +1,13 @@
+# Node
+node_modules/
+yarn.lock
+
+# Ambiente
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Sessão e logs
+sessions/
+logs/
+
